@@ -13,7 +13,28 @@ Aprender a operar e monitorar um servidor Linux localmente antes de aplicar os m
 - `logs/`: relatórios gerados pelos scripts.
 - `docs/`: anotações e documentação.
 
-## Próxima automação
+## Como executar
 
-Criar um monitor de saúde de servidor em Python para verificar disco, memória e gerar logs.
+No terminal Ubuntu:
 
+```bash
+cd scripts/python
+python3 monitor_serv.py
+
+## Tecnologias utilizadas
+
+- Python 3
+- Linux Ubuntu (WSL)
+- Git e GitHub
+
+## Estrutura do projeto
+
+```text
+linux-lab/
+├── scripts/
+│   └── python/
+│       └── monitor_serv.py
+├── logs/
+├── docs/
+├── .gitignore
+└── README.md

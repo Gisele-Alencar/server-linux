@@ -20,6 +20,7 @@ No terminal Ubuntu:
 ```bash
 cd scripts/python
 python3 monitor_serv.py
+```
 
 ## Tecnologias utilizadas
 

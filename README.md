@@ -6,7 +6,6 @@ Nele, um script em Python monitora recursos do sistema e gera registros automati
 
 **Estrutura**
 
-- `scripts/bash/`: scripts de automação Bash.
 - `scripts/python/`: scripts de automação em Python.
 - `logs/`: relatórios gerados pelos scripts.
 - `docs/`: anotações e documentação.

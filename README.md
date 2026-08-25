@@ -1,10 +1,6 @@
 # Linux Server Lab
 
-Projeto prático de fundamentos Linux, Git e automação para Cloud/DevOps.
-
-## Objetivo
-
-Aprender a operar e monitorar um servidor Linux localmente antes de aplicar os mesmos conceitos em uma instância EC2 na AWS.
+Projeto prático de fundamentos Linux, Git e automação.
 
 ## Estrutura
 

@@ -1,8 +1,10 @@
 # Linux Server Lab
 
-Projeto prático de fundamentos Linux, Git e automação.
+Este projeto permite praticar comandos Linux para monitoramento e automação.
+Nele, um script em Python monitora recursos do sistema e gera registros automaticamente.
 
-## Estrutura
+
+**Estrutura**
 
 - `scripts/bash/`: scripts de automação Bash.
 - `scripts/python/`: scripts de automação em Python.
@@ -18,7 +20,7 @@ cd scripts/python
 python3 monitor_serv.py
 ```
 
-## Tecnologias utilizadas
+**Tecnologias utilizadas**
 
 - Python 3
 - Linux Ubuntu (WSL)
